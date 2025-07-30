@@ -1,0 +1,9 @@
+variant_example/base
+variant_example/compile_variants.sh
+variant_example/variant1
+variant_example/variant2
+variant_example/variant3
+variant_example/build_saxpy_variants/base
+variant_example/build_saxpy_variants/variant1
+variant_example/build_saxpy_variants/variant2
+variant_example/build_saxpy_variants/variant3
